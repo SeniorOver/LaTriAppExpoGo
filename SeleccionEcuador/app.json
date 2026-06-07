@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Selección Ecuador",
+    "slug": "seleccion-ecuador",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1A237E",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.prodetech.seleccionecuador"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1A237E"
+      },
+      "package": "com.prodetech.seleccionecuador"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
