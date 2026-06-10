@@ -1,6 +1,6 @@
 # 🇪🇨 Selección Ecuatoriana de Fútbol — App Móvil
 
-Aplicación móvil básica desarrollada con **React Native + Expo Go** como práctica de entorno de desarrollo móvil.
+Aplicación móvil básica desarrollada con **React Native + Expo Go** es una práctica de entorno de desarrollo móvil.
 
 ## 📱 Pantallas
 
@@ -38,7 +38,7 @@ npm install
 npx expo start
 ```
 
-Luego escanea el código QR con la app **Expo Go** en tu dispositivo.
+Escanea el código QR con la app **Expo Go** en tu dispositivo.
 
 ## 📁 Estructura del proyecto
 
@@ -56,4 +56,4 @@ seleccion-ecuador/
 
 ## 👨‍💻 Autor
 
-Desarrollado como práctica universitaria de desarrollo móvil con React Native y Expo.
+Senior Over junto ocn Claude y con React Native y Expo.
